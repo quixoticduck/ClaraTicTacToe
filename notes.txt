@@ -1,0 +1,7 @@
+// just stub it up for now.
+a placeholder for code
+
+functions nested inside another function cannot be used outside of that function
+but can be used within
+= in the same scope
+ 
